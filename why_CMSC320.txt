@@ -1,0 +1,7 @@
+Why are you interested in taking CMSC320?
+- I believe that taking a course that'll teach me the
+fundamentals of Data Science can greatly benefit me in the
+long run. As of today, I don't have a clear career path
+in my head so I don't know if I'll be particularly specializing
+in Data Science. However, I believe that the concepts taught in
+this class can be of great use regardless of my area of work.
